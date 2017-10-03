@@ -1,5 +1,5 @@
-#TinyCircuits TinyPiano, ASM4002
-#ASM4002 Rev2
+# TinyCircuits TinyPiano, ASM4002
+# ASM4002 Rev2
 
 These are the design files for the TinyCircuits TinyPiano ASM4002 Rev 2 PCB. This is a small open source piano with capacitive touch piano keys, an ATTiny processor and a coin cell battery for power
 
@@ -7,7 +7,7 @@ Format is in Cadsoft Eagle format - Eagle version 6.3 was used for the original 
 
 For more information on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/tinypiano
 
-#License
+## License
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
